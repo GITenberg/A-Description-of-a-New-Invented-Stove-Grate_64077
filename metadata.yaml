@@ -1,0 +1,20 @@
+_repo: A-Description-of-a-New-Invented-Stove-Grate_64077
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Durno, J.
+    gutenberg_agent_id: '52743'
+    url: http://www.gutenberg.org/2009/agents/52743
+description: ''
+gutenberg_issued: '2020-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Description of a New-Invented Stove-Grate
+url: http://www.gutenberg.org/ebooks/64077
